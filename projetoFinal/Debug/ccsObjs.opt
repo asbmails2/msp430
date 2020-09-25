@@ -1,0 +1,1 @@
+"./adc.obj" "./atrasar.obj" "./configI2C.obj" "./ioConfig.obj" "./main.obj" "./pwm.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
